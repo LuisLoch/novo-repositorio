@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mouse",
+      "brand": "Razer",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Keyboard",
+      "brand": "Logitech",
+      "price": 199.99
+    },
+    {
+      "id": 3,
+      "name": "Monitor",
+      "brand": "AOC",
+      "price": 659.49
+    }
+  ]
+}

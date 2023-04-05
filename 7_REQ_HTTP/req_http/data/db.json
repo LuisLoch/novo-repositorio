@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Calça",
+      "price": 129.99
+    },
+    {
+      "id": 3,
+      "name": "Camisa",
+      "price": 59
+    },
+    {
+      "name": "Corrente",
+      "price": "499.99",
+      "id": 4
+    },
+    {
+      "name": "Casaco moletom",
+      "price": "199.99",
+      "id": 5
+    },
+    {
+      "name": "Calção jeans",
+      "price": "134.99",
+      "id": 6
+    },
+    {
+      "name": "Camiseta",
+      "price": "39.99",
+      "id": 7
+    },
+    {
+      "name": "Sapato",
+      "price": "249.99",
+      "id": 8
+    },
+    {
+      "name": "Boné",
+      "price": "29.99",
+      "id": 9
+    }
+  ]
+}

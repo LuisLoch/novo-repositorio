@@ -1,0 +1,19 @@
+body{
+  background-color: darkgray;
+}
+
+.titulo_lista {
+  margin-top: 50px;
+  font-size: x-large;
+  font-weight: 900;
+  color: chartreuse;
+}
+
+.itemLista {
+  font-size: larger;
+  color: blueviolet;
+}
+
+li {
+  font-family: 'Times New Roman';
+}
